@@ -1,9 +1,6 @@
 # 📊 Projet d'Analyse de Données - EduMart
 
-### 👥 Auteurs du projet
-* **Roodson FRANÇOIS**
-* **Abdarare HÉRARD**
-* **Davidson RIGAUD**
+### 👥 Auteurs du projet :  **Davidson RIGAUD**
 
 **Date :** 10 janvier 2026
 
